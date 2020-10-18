@@ -1,7 +1,17 @@
 ### Hi there I'm Ali [AlwahaL] 👋
-<hr>
+
 ### I'm a Student, Developer, and Musician!
 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Lua c#
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: <a href="https://www.instagram.com/neyseunuttumyine/">Instagram</a>
+- ⚡ Fun fact: I love to football player
 <!--
 **AlwahaL/alwahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
