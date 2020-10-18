@@ -1,6 +1,6 @@
 ### Hi there I'm Ali [AlwahaL] 👋
 
-#I'm a Student, Developer, and Musician!
+###I'm a Student, Developer, and Musician!
 
 <!--
 **AlwahaL/alwahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
