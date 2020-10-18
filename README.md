@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
-<img align="left" alt="HTML5" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" style="max-width:100%;">
+<img align="left" alt="HTML5" width="26px" src="https://pngimg.com/uploads/php/php_PNG7.png" style="max-width:100%;">
 <!--
 **AlwahaL/alwahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
