@@ -1,6 +1,6 @@
 ### Hi there I'm Ali [AlwahaL] 👋
 
-### I'm a Student, Developer, and Musician!
+### I'm a Student, Developer, and Footballer!
 
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Lua c#
 - 📫 How to reach me: <a href="https://www.instagram.com/neyseunuttumyine/">Instagram</a>, <a href="javascript:void(0)">Discord</a>
-- ⚡ Fun fact: I love to football player0
+- ⚡ Fun fact: I love to football player
 
 <hr>
 
