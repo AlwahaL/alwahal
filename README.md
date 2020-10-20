@@ -1,6 +1,6 @@
 ### Hi there I'm Ali [AlwahaL] 👋
 
-### I'm a Student, Developer, and Footballer!
+### I'm a Student, Developer and Footballer!
 
 
 Here are some ideas to get you started:
