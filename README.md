@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Lua c#
-- 📫 How to reach me: <a href="https://www.instagram.com/neyseunuttumyine/">Instagram</a>, <a href="https://www.instagram.com/neyseunuttumyine/">Instagram</a>
-- ⚡ Fun fact: I love to football player
+- 📫 How to reach me: <a href="https://www.instagram.com/neyseunuttumyine/">Instagram</a>, <a href="javascript:void(0)">Discord</a>
+- ⚡ Fun fact: I love to football player0
 
 <hr>
 
