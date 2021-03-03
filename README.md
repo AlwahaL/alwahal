@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
-<img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG7.png" style="max-width:100%;">
-<img align="left" alt="Javascript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" style="max-width:100%;">
-<img align="left" alt="Jquery" width="26px" src="https://software.3metas.com/wp-content/uploads/2017/06/jqueryfe.png" style="max-width:100%;">
-<img align="left" alt="CSS" width="26px" src="https://img2.pngio.com/css-3-logo-png-picture-364523-css-3-logo-png-css-logo-png-1600_1600.png" style="max-width:100%;">
+<img align="left" title="PHP" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG7.png" style="max-width:100%;">
+<img align="left" title="Javascript" alt="Javascript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" style="max-width:100%;">
+<img align="left" title="Jquery" alt="Jquery" width="26px" src="https://software.3metas.com/wp-content/uploads/2017/06/jqueryfe.png" style="max-width:100%;">
+<img align="left" title="css" alt="CSS" width="26px" src="https://img2.pngio.com/css-3-logo-png-picture-364523-css-3-logo-png-css-logo-png-1600_1600.png" style="max-width:100%;">
 
 <!--
 **AlwahaL/alwahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
